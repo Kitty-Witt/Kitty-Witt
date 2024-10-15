@@ -5,6 +5,7 @@
 - 📫 How to reach me with cats
 - 😄 Pronouns: cats
 - ⚡ Fun fact: I love cats
+- A new line is added
 
 <!---
 Kitty-Witt/Kitty-Witt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
